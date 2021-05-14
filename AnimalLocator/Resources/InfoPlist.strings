@@ -1,0 +1,2 @@
+"CFBundleName" = "AnimalLocator";
+"NSLocationWhenInUseUsageDescription" = "We will use your location to display scooters in the area";

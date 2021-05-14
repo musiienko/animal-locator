@@ -1,0 +1,17 @@
+"active" = "Active";
+"damaged" = "Damaged";
+"gps_issue" = "GPS Issue";
+"last_search" = "Last Search";
+"lost" = "Lost";
+"low_battery" = "Low Battery";
+"maintenance" = "Maintenance";
+"missing" = "Missing";
+"out_of_order" = "Out Of Order";
+"error_title" = "Error";
+"error_message" = "Something went wrong: %@";
+"ok" = "OK";
+"number_of_percent" = "%d %%";
+"state" = "State";
+"charge_level" = "Charge Level";
+"model" = "Model";
+"device_info_format" = "%1$@: %2$@";
